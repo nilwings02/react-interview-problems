@@ -1,0 +1,28 @@
+.Images{
+    width: 40%;
+    height: 80vh;
+}
+
+.Images-slider{
+    padding: 5px;
+    direction: flex;
+    justify-content: center;
+}
+
+.Images-buttons-section{
+    direction: flex;
+    justify-content: space-between;
+}
+
+.Images-buttons{
+    height: 40px;
+    width: 80px;
+}
+
+.Button-active{
+    background-color: green;
+}
+
+.Button-inactive{
+    background-color: gray;
+}
